@@ -1,2 +1,1 @@
-dev2
-dev2,diff work direct and stage.
+Creating a new branch is quick AND simple
